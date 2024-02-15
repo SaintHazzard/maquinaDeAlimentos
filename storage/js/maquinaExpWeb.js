@@ -15,9 +15,9 @@ let nodo;
 /** @type {Array<producto>} */
 // Esto simula la "Base de datos"
 const productos = [
-  { nombre: 'Producto A', precio: 270, img: "/storage/images/FZ25 ABS/fz25_verde2.jpg" },
-  { nombre: 'Producto B', precio: 340, img: "/storage/images/MT10/Mt10_azul.png" },
-  { nombre: 'Producto C', precio: 390, img: "/storage/images/R1/R1-2022-COLOR_AZUL.jpg" },
+  { nombre: 'Producto A', precio: 270, img: "storage/images/FZ25 ABS/fz25_verde2.jpg" },
+  { nombre: 'Producto B', precio: 340, img: "storage/images/MT10/Mt10_azul.png" },
+  { nombre: 'Producto C', precio: 390, img: "storage/images/R1/R1-2022-COLOR_AZUL.jpg" },
 ];
 const monedas = [10, 50, 100]
 let inMonedas = 0;
